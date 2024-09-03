@@ -1,5 +1,4 @@
-ĐẠI HỌC THÔNG TIN LIÊN LẠC
-ĐỀ TÀI MÔN HỌC PHÁT TRIỂN PHẦN MỀM MÃ NGUỒN MỞ
+ĐẠI HỌC CÔNG THƯƠNG THÀNH PHỐ HỒ CHÍ MINH
 WEBSITE BÁN ĐIỆN THOẠI
 
 
@@ -12,8 +11,8 @@ Website cho phép người tiêu dùng có thể xem, so sánh đánh gia
 Phần 1: Cơ sở thực tế bài toán
 Phần 2: Thiết kế giao diện tiện ích
 Thành viên
-**Phan Xuân Tuấn** - | 01663072100 | prophan1171996@gmail.com
-**Đặng Thị Thanh Nhàn** - | 0976321840 | dangthithanhnhan1996@gmail.com
+Võ Văn Vũ Nhân
+Huỳnh Đức Khang
 
 Giấy phép
 Apache License 2.0 Apache License Version 2.0, January 2004
@@ -35,24 +34,6 @@ Mục đích:
 Đưa ra các quy ước khi coding với ngôn ngữ lập trình PHP, với các quy tắc này giúp tiết kiệm thời gian rất lớn trong tiến trình phát triển phần mềm và cả trong quá trình bảo trì sản phẩm. Giúp sinh viên quen với làm việc theo nhóm. Tài liệu này chủ yếu hướng dẫn sinh viên với ngôn ngữ lập trình PHP, nhưng có rất nhiều quy tắc được sử dụng trong nhiều ngôn ngữ lập trình khác tích hợp trong bộ công cụ Adobe Dreamweaver
 Phạm vi áp dụng:
 Những lập trình viên tham gia dự án phát triển bằng ngôn ngữ PHP và công cụ Adobe Dreamweaver
-Tài liệu cho người sử dụng
-Tài liệu cho người sử dụng Xem tại đây.
-
-Tài liệu cho nhà phát triển
-Tài liệu cho nhà phát triển Xem tại đây.
-
-Tài liệu thiết kế
-Tài liệu thiết kế Xem tại đây.
-
-Kênh truyền thông
-Nhấp để xem các tin tức mới nhất. Fanpage Điện Thoại BlackBerry.
-
-
-Báo lỗi
-Danh sách lỗi. Tại đây.
-
-Cách lấy và đóng góp mã nguồn
-Mời các bạn truy cập để biết thêm chi tiết. Tại đây.
 
 Lời cảm ơn
 Trong thời gian thực hiện đề tài, nhóm chúng em đã gặp không ít khó khăn về tài liệu nghiên cứu, thời gian nghiên cứu và kinh nghiệm lập trình. Tuy nhiên, với sự nỗ lực cố gắng không ngừng, chúng em đã hoàn thành “Website bán thiết bị di động BlackBerry”. Website hoàn toàn có thể đưa vào sử dụng thực tế. Song có thể còn có những hạn chế nhất định, kính mong thầy cô góp ý để nhóm được hoàn thiện website, mang lại sự tiện lợi nhất cho người dùng.
