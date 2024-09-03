@@ -33,8 +33,4 @@ Chuẩn lập trình
 Mục đích:
 Đưa ra các quy ước khi coding với ngôn ngữ lập trình PHP, với các quy tắc này giúp tiết kiệm thời gian rất lớn trong tiến trình phát triển phần mềm và cả trong quá trình bảo trì sản phẩm. Giúp sinh viên quen với làm việc theo nhóm. Tài liệu này chủ yếu hướng dẫn sinh viên với ngôn ngữ lập trình PHP, nhưng có rất nhiều quy tắc được sử dụng trong nhiều ngôn ngữ lập trình khác tích hợp trong bộ công cụ Adobe Dreamweaver
 Phạm vi áp dụng:
-Những lập trình viên tham gia dự án phát triển bằng ngôn ngữ PHP và công cụ Adobe Dreamweaver
-
-Lời cảm ơn
-Trong thời gian thực hiện đề tài, nhóm chúng em đã gặp không ít khó khăn về tài liệu nghiên cứu, thời gian nghiên cứu và kinh nghiệm lập trình. Tuy nhiên, với sự nỗ lực cố gắng không ngừng, chúng em đã hoàn thành “Website bán thiết bị di động BlackBerry”. Website hoàn toàn có thể đưa vào sử dụng thực tế. Song có thể còn có những hạn chế nhất định, kính mong thầy cô góp ý để nhóm được hoàn thiện website, mang lại sự tiện lợi nhất cho người dùng.
-Chúng em xin chân thành cảm ơn Thầy Mai Cường Thọ đã giúp đỡ tận tình để chúng em có thể hoàn thiện được website này. Chúng em sẽ tiếp thu kiến thức và cố gắng nhiều hơn nữa trong học tập và nghiên cứu!
+Những lập trình viên tham gia dự án phát triển bằng ngôn ngữ PHP và công cụ Adobe Dreamweaver.
